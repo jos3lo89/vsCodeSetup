@@ -14,5 +14,7 @@
   "breadcrumbs.enabled": false,
   "workbench.activityBar.location": "top",
   "workbench.layoutControl.enabled": false,
-  "editor.stickyScroll.enabled": false
+  "editor.stickyScroll.enabled": false,
+  "window.menuBarVisibility": "compact",
+    "workbench.startupEditor": "none"
 }
