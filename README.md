@@ -27,3 +27,58 @@
 - [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
 - [Tokyo Night Dark](https://marketplace.visualstudio.com/items?itemName=drewxs.tokyo-night-dark)
 - [Vivid Black](https://marketplace.visualstudio.com/items?itemName=AsmRaihan.vivid-black)
+
+### Snippets en Visual Studio Code
+#### javascript
+- `clg` 
+```javascript
+console.log()
+```
+- `imp`
+```javascript
+import second from 'first';
+```
+- `imd`
+```javascript
+import { second } from 'first';
+```
+- `exp`
+```javascript
+export default first;
+```
+#### typescript
+- `fcv`
+```javascript
+const first = (): void => {
+  
+}
+```
+#### vue js
+- `tsvue`
+```vue
+<script setup lang="ts"> 
+
+</script>
+
+<template>
+  
+</template>
+
+<style scoped>
+
+</style>
+```
+- `jsvue`
+```vue
+<script setup> 
+
+</script>
+
+<template>
+  
+</template>
+
+<style scoped>
+
+</style>
+```
