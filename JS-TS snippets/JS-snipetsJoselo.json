@@ -1,0 +1,31 @@
+{
+  "joselo consol log": {
+    "prefix": "clg",
+    "body": ["console.log(${0})"],
+    "description": "joselo consol log"
+  },
+
+  "joselo import": {
+    "prefix": "imp",
+    "body": ["import ${2:second} from '${1:first}';$0"],
+    "description": "joselo import"
+  },
+
+  "joselo import {}": {
+    "prefix": "imd",
+    "body": ["import { ${2:second} } from '${1:first}';$0"],
+    "description": "joselo import {}"
+  },
+
+  "joselo export default": {
+    "prefix": "exp",
+    "body": ["export default ${1:first}"],
+    "description": "joselo export default"
+  },
+
+  "joselo function void ()=>{}": {
+    "prefix": "fcv",
+    "body": ["const ${1:first} = (): void => {", "\t${2}", "}"],
+    "description": "joselo function void ()=>{}"
+  }
+}

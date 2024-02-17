@@ -1,0 +1,37 @@
+{
+  "joselo vue setup ts": {
+    "prefix": "tsvue",
+    "body": [
+      "<script setup lang=\"ts\"> ",
+      "",
+      "</script>",
+      "",
+      "<template>",
+      "  $0",
+      "</template>",
+      "",
+      "<style scoped>",
+      "",
+      "</style>"
+    ],
+    "description": "joselo vue setup ts"
+  },
+
+  "joselo vue setup js": {
+    "prefix": "jsvue",
+    "body": [
+      "<script setup> ",
+      "",
+      "</script>",
+      "",
+      "<template>",
+      "  $0",
+      "</template>",
+      "",
+      "<style scoped>",
+      "",
+      "</style>"
+    ],
+    "description": "joselo vue setup js"
+  }
+}
