@@ -1,0 +1,18 @@
+{
+  "editor.wordWrap": "on",
+  "window.zoomLevel": 1,
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+  "window.commandCenter": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.statusBar.visible": false,
+  "editor.cursorBlinking": "expand",
+  "breadcrumbs.enabled": false,
+  "workbench.activityBar.location": "top",
+  "workbench.layoutControl.enabled": false,
+  "editor.stickyScroll.enabled": false
+}
