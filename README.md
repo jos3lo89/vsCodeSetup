@@ -29,7 +29,7 @@
 - [Vivid Black](https://marketplace.visualstudio.com/items?itemName=AsmRaihan.vivid-black)
 
 ### Snippets en Visual Studio Code
-#### javascript
+#### [javascript](https://github.com/jos3lo89/vsCodeSetup/blob/main/JS-TS%20snippets/JS-snipetsJoselo.json)
 - `clg` 
 ```javascript
 console.log()
@@ -46,14 +46,14 @@ import { second } from 'first';
 ```javascript
 export default first;
 ```
-#### typescript
+#### [typescript](https://github.com/jos3lo89/vsCodeSetup/blob/main/JS-TS%20snippets/JS-snipetsJoselo.json)
 - `fcv`
 ```javascript
 const first = (): void => {
   
 }
 ```
-#### vue js
+#### [vue js](https://github.com/jos3lo89/vsCodeSetup/blob/main/VUE%20snippets/VUE-snippetJoselo.json)
 - `tsvue`
 ```vue
 <script setup lang="ts"> 
