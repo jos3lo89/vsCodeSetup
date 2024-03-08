@@ -2,7 +2,7 @@
     "editor.wordWrap": "on",
     "window.zoomLevel": 1,
     "editor.minimap.enabled": false,
-    "editor.fontSize": 15,
+    "editor.fontSize": 14,
     "editor.tabSize": 2,
     "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
     "window.commandCenter": false,
